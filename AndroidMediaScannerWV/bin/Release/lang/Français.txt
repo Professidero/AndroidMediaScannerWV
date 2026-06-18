@@ -1,0 +1,26 @@
+Langue
+Profil
+Tous
+Scanner
+Actualiser
+Aperçu
+Résultats
+Exporter...
+Dossier de sortie:
+Types de fichier:
+Images
+Vidéos
+Audio
+Autres
+Structure de sortie:
+Maintenir la structure de dossier
+Aplanir
+Sélectionner:
+Fichiers sélectionnés
+Écraser
+Copier...
+Tri...
+Terminé. Trouvés:
+Traitement de "$0"... Résultats trouvés jusqu'à présent :
+($0/$1) Export de $2...
+Terminé
